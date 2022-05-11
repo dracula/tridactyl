@@ -8,5 +8,10 @@ Edit CSS vars to change colors/font to your preference
 
 ### Example: 
 
-`--tridactyl-url-fg: var(--pink);` Change `--pink` to `--green` or whatever you prefer.
+`--tridactyl-url-fg: var(--pink);` Change `--pink` to the color you prefer.
+
+Available colors correspond to [Dracula colors](https://draculatheme.com/contribute): pink, purple, red, etc...
+
+Change the font:
+
 `--font: "FiraCode Nerd Font Mono";` Change to `--font: "font-of-your-choice";"`
