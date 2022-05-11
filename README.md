@@ -4,7 +4,7 @@
 `:colourscheme --url https://raw.githubusercontent.com/lonepie/dracula-tridactyl/main/dracula.css dracula`
 
 ## Customization
-Edit CSS vars to change colors/font to your preference
+Fork the repo, then edit CSS vars to change colors/font to your preference
 
 ### Example: 
 
