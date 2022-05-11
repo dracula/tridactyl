@@ -4,7 +4,9 @@
 `:colourscheme --url https://raw.githubusercontent.com/lonepie/dracula-tridactyl/main/dracula.css dracula`
 
 ## Customization
-Edit CSS vars to change colors/font to your preference
+- Fork the repo
+- Edit CSS vars to change colors/font to your preference
+- Use `:colourscheme --url https://raw.githubusercontent.com/<user>/dracula-tridactyl/main/dracula.css dracula_custom` command to set your custom theme
 
 ### Example: 
 
@@ -14,4 +16,7 @@ Available colors correspond to [Dracula colors](https://draculatheme.com/contrib
 
 Change the font:
 
-`--font: "FiraCode Nerd Font Mono";` Change to `--font: "font-of-your-choice";"`
+`--font: "FiraCode Nerd Font Mono";` Change to `--font: "font-of-your-choice";`
+
+## Credit
+Based on [base16-tridactyl](https://github.com/bezmi/base16-tridactyl)
