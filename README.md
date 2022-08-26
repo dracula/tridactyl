@@ -1,4 +1,4 @@
-# dracula-tridactyl
+# dracula tridactyl theme
 
 ## Install
 `:colourscheme --url https://raw.githubusercontent.com/lonepie/dracula-tridactyl/main/dracula.css dracula`
