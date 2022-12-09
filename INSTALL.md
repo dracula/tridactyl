@@ -1,10 +1,12 @@
 ## Install
-`:colourscheme --url https://raw.githubusercontent.com/lonepie/dracula-tridactyl/main/dracula.css dracula`
+```
+:colourscheme --url https://raw.githubusercontent.com/dracula/tridactyl/main/dracula.css dracula
+```
 
 ## Customization
 - Fork the repo
 - Edit CSS vars to change colors/font to your preference
-- Use `:colourscheme --url https://raw.githubusercontent.com/<user>/dracula-tridactyl/main/dracula.css dracula_custom` command to set your custom theme
+- Use `:colourscheme --url https://raw.githubusercontent.com/<user>/tridactyl/main/dracula.css dracula_custom` command to set your custom theme
 
 ### Example: 
 
