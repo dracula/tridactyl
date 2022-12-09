@@ -15,3 +15,6 @@ Available colors correspond to [Dracula colors](https://draculatheme.com/contrib
 Change the font:
 
 `--font: "FiraCode Nerd Font Mono";` Change to `--font: "font-of-your-choice";`
+
+## Credit
+Based on [base16-tridactyl](https://github.com/bezmi/base16-tridactyl)
