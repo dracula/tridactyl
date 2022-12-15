@@ -3,15 +3,16 @@
 ![Screenshot](./screenshot.png)
 
 ## Install
-Instructions can be found [here](./INSTALL.md)
+
+All instructions can be found at [draculatheme.com/tridactyl](https://draculatheme.com/tridactyl).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/tridactyl/graphs/contributors).
 
 | [![lonepie](https://github.com/lonepie.png?size=100)](https://github.com/lonepie) |
-| --------------------------------------------------------------------------------------- |
-| [lonepie](https://github.com/lonepie)                                               |
+| --------------------------------------------------------------------------------- |
+| [lonepie](https://github.com/lonepie)                                             |
 
 ## Community
 
