@@ -1,22 +1,24 @@
-# dracula tridactyl theme
+# Dracula for [Tridactyl](https://github.com/tridactyl/tridactyl)
+
+![Screenshot](./screenshot.png)
 
 ## Install
-`:colourscheme --url https://raw.githubusercontent.com/lonepie/dracula-tridactyl/main/dracula.css dracula`
+Instructions can be found [here](./INSTALL.md)
 
-## Customization
-- Fork the repo
-- Edit CSS vars to change colors/font to your preference
-- Use `:colourscheme --url https://raw.githubusercontent.com/<user>/dracula-tridactyl/main/dracula.css dracula_custom` command to set your custom theme
+## Team
 
-### Example: 
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/tridactyl/graphs/contributors).
 
-`--tridactyl-url-fg: var(--pink);` Change `--pink` to the color you prefer.
+| [![lonepie](https://github.com/lonepie.png?size=100)](https://github.com/lonepie) |
+| --------------------------------------------------------------------------------------- |
+| [lonepie](https://github.com/lonepie)                                               |
 
-Available colors correspond to [Dracula colors](https://draculatheme.com/contribute): pink, purple, red, etc...
+## Community
 
-Change the font:
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
 
-`--font: "FiraCode Nerd Font Mono";` Change to `--font: "font-of-your-choice";`
+## License
 
-## Credit
-Based on [base16-tridactyl](https://github.com/bezmi/base16-tridactyl)
+[MIT License](./LICENSE)
