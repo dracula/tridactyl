@@ -8,7 +8,7 @@ To install run:
 :colourscheme --url https://raw.githubusercontent.com/dracula/tridactyl/main/dracula.css dracula
 ```
 
-### Customization
+#### Customization
 
 - Fork the repo;
 - Edit CSS vars to change colors/font to your preference;
